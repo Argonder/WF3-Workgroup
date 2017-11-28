@@ -13,6 +13,7 @@
 </head>
 <body>
 
+
 	<form method="post">
 		<label> Pseudo </label>
 		<input type="text" id="pseudo" name="pseudo">
